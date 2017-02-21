@@ -11,6 +11,5 @@
     "gulp-util": "^3.0.8",
   },
   "scripts": {},
-  "author": "",
-  "license": "ISC"
+  "author": "Alexandre GADIOU",
 }
